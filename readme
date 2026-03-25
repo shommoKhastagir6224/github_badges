@@ -1,0 +1,25 @@
+# Banner Component with Tailwind CSS & React
+
+## 📌 Overview
+This project demonstrates how to build a **Banner component** in React using **Tailwind CSS**.  
+The banner includes:
+- A background image
+- A gradient overlay
+- Centered text content
+
+It is designed to be responsive, clean, and easy to customize.
+
+---
+
+## 🚀 Features
+- **Background Image Support**: Uses imported assets or public paths.
+- **Gradient Overlay**: Smooth gradient applied on top of the image.
+- **Responsive Layout**: Works across different screen sizes.
+- **Customizable Content**: Easily replace text or add buttons.
+
+---
+
+## 🛠️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/banner-component.git
